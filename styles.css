@@ -2,7 +2,7 @@
 table{
 	background-color : yellow
 }
-table,th,td{
+table,th,td,tr{
 	border : 1px solid black
 }
 caption{
